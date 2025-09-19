@@ -30,6 +30,3 @@ eureka:
     hostname: localhost
     prefer-ip-address: true
 
-spring:
-  application:
-    name: QUESTION-SERVICE
